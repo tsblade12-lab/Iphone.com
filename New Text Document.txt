@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Google SEO -->
+  <title>iPhone – The Future in Your Hand</title>
+  <meta name="description" content="Discover the latest iPhone with powerful performance, stunning design, and next-gen features." />
+  <meta name="keywords" content="iPhone, Apple iPhone, Smartphone, iOS, Buy iPhone" />
+  <meta name="author" content="Your Brand" />
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700;900&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <h1 class="logo">🍎 iPhone</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Features</a>
+      <a href="#">Buy</a>
+    </nav>
+  </header>
+
+  <!-- HERO SECTION -->
+  <section class="hero">
+    <div class="hero-text">
+      <h2>The Future.<br><span>In Your Hand.</span></h2>
+      <p>Experience speed, style, and power with the latest iPhone.</p>
+      <button>Buy Now</button>
+    </div>
+
+    <div class="hero-img">
+      <img src="https://images.apple.com/v/iphone/home/bk/images/overview/hero/hero_iphone_15__fano21ho6fqu_large.png" alt="iPhone">
+    </div>
+  </section>
+
+  <!-- FEATURES -->
+  <section class="features">
+    <div class="card">
+      ⚡ <h3>Ultra Fast</h3>
+      <p>A-series chip for insane performance.</p>
+    </div>
+    <div class="card">
+      📸 <h3>Pro Camera</h3>
+      <p>Capture cinematic photos & videos.</p>
+    </div>
+    <div class="card">
+      🔋 <h3>All-Day Battery</h3>
+      <p>Power that lasts all day.</p>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2025 iPhone Landing | Gen-Z Style</p>
+  </footer>
+
+</body>
+</html>
